@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "acd793ff954026bf37a84f0bc90a877c",
+  "assets/AssetManifest.json": "1980d07daf84716aa16abcd35505c712",
 "assets/FontManifest.json": "41148460b8c931cc299efe34916c611f",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/lib/assets/bus_animated.json": "39adb998dd2f54e8f5f6645d6cf36a2b",
 "assets/lib/assets/fonts/Roboto-Medium.ttf": "b2d307df606f23cb14e6483039e2b7fa",
-"assets/NOTICES": "abe804d6d5c0b5beb5abdcf5e6a33a11",
+"assets/NOTICES": "b6eb9ae449af2a184b8e670440fe0501",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
@@ -17,10 +17,19 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8b957118ca7014eb9424e1c09eb3ae0f",
-"/": "8b957118ca7014eb9424e1c09eb3ae0f",
+"index.html": "6eb800a7db004d62b675c3ca8d0ca9d3",
+"/": "6eb800a7db004d62b675c3ca8d0ca9d3",
 "main.dart.js": "08ec74c0780ccbb0a426baf863baef11",
 "manifest.json": "1c517dd6f4b81d670afd8a25cb6d6d78",
+"splash/img/dark-1x.png": "010efb7d4db7ceea0d092712e9bc0c04",
+"splash/img/dark-2x.png": "4d30cc7c87d04219a627b78b53335b49",
+"splash/img/dark-3x.png": "efe1e63b01d9f0dc3ddf0f586c2e365f",
+"splash/img/dark-4x.png": "8dd3440dcab33db7631c0899d3622e20",
+"splash/img/light-1x.png": "010efb7d4db7ceea0d092712e9bc0c04",
+"splash/img/light-2x.png": "4d30cc7c87d04219a627b78b53335b49",
+"splash/img/light-3x.png": "efe1e63b01d9f0dc3ddf0f586c2e365f",
+"splash/img/light-4x.png": "8dd3440dcab33db7631c0899d3622e20",
+"splash/style.css": "64227ec06c71fef909f75868ada72c30",
 "version.json": "5fe1938474c764d1e431abb5bc8e815a"
 };
 
